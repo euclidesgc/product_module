@@ -10,7 +10,8 @@ environment:
 
 dependencies:
   flutter:
-    sdk: flutter    
+    sdk: flutter
+
   external_dependencies:
     git:
       url: https://github.com/euclidesgc/external_dependencies.git
